@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /awards/index.html
-title: Publications
+title: Awards
 ---
 
 > Lastest Update: 15th May 2024&nbsp;  [中文版本 (Chinese Version)](https://liuyong0076.github.io/liuyong2024.github.io/publications-zh/)

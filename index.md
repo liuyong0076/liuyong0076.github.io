@@ -4,7 +4,6 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
 **Dr. Yong Liu(刘勇)**, [Associate Professor(副教授、硕士生导师)](https://cist.buct.edu.cn/main.htm), Coach of Programming Contest(程序设计竞赛教练)
 

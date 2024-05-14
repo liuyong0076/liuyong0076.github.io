@@ -5,12 +5,8 @@ layout: page
 # About Me
 
 **Dr. Yong Liu(刘勇)**, [Associate Professor(副教授、硕士生导师)](https://cist.buct.edu.cn/main.htm), Coach of Programming Contest(程序设计竞赛教练)
-
 **Email**: lyong [at] mail.buct.edu.cn
-
-
 I received the B.Sc. M.Sc. and Ph.D. degrees from BUCT in 2008, 2011 and 2018 respectively. My advisor is [Professor Zheng Li](http://cist.buct.edu.cn/staff/zheng/). 
-
 My research interests include **empirical software engineering**, **artificial intelligence**, and **software testing**:
 - Intelligent Software Engineering（智能化软件工程）
 - Software Development and Analysis（软件开发与分析）

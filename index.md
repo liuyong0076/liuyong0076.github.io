@@ -5,7 +5,7 @@ layout: page
 # About Me
 
 
-  **Dr. Yong Liu(刘勇)**, [Associate Professor(副教授、硕士生导师)](https://cist.buct.edu.cn/main.htm), Coach of Programming Contest(程序设计竞赛教练)
+&ensp;**Dr. Yong Liu(刘勇)**, [Associate Professor(副教授、硕士生导师)](https://cist.buct.edu.cn/main.htm), Coach of Programming Contest(程序设计竞赛教练)
 
 **Email**: lyong [at] mail.buct.edu.cn
 
@@ -19,12 +19,12 @@ My research interests include **empirical software engineering**, **artificial i
 - Source Code Analysis and Manipulation（源代码分析与处理）
 - Intelligent Programming Education（智能编程教育）
 
-# TEACHING COURSES
+## TEACHING COURSES
 - Data Structure
 - ACM/ICPC Programming Contest Methods and Practice
 - Python Programming
 
-# AWARDS
+## AWARDS
 - 2022年，北京化工大学信息学院青年教师教学基本功大赛特等奖，最受师生（网络）欢迎奖
 - 2022年，北京化工大学新工科建设优秀案例二等奖
 - 2022年，北京市教育教学成果二等奖
@@ -38,7 +38,7 @@ My research interests include **empirical software engineering**, **artificial i
 - 2016年，北京化工大学教职工乒乓球赛团体冠军
 - 2011年，北京化工大学教职工篮球联赛团体冠军，比赛中单场最高44分，进12个三分球
 
-# GRADUATE STUDENTS
+### GRADUATE STUDENTS
 - 2023级：黄瑞士；刘季平；康晓兰；杨彬彬；单光耀；王鑫；
 - 2022级：郭力玮；杨泽忠；刘洋滔；许舜清；杨济泽；韩宝龙；
 - 2021级：常泽星；张占文；田帅华；范露曦；潘月鹏；

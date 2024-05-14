@@ -6,10 +6,10 @@ title: Publications
 
 > Lastest Update: 15th May 2024&nbsp;  [中文版本 (Chinese Version)](https://liuyong0076.github.io/liuyong2024.github.io/publications-zh/)
 
-# PROGRAMMING CONTEST AWARDS
+### PROGRAMMING CONTEST AWARDS
+
 
 ## 2023
-
 - Hu Jin, Wang Kongyu, Wang Yao, ICPC Shen Yang Site, Bronze Medal.
 - Xue Mohan, Qiu Ruoxin, Fu Xiao, ICPC Ji Nan site, Silver Medal.
 -Zhai Haotian, An Xiaoyang, Zheng Liangfei, ICPC Nan Jing Site, Bronze Medal.

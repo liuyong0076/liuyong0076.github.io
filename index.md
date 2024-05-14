@@ -4,8 +4,7 @@ layout: page
 
 # About Me
 
-
-&ensp;**Dr. Yong Liu(刘勇)**, [Associate Professor(副教授、硕士生导师)](https://cist.buct.edu.cn/main.htm), Coach of Programming Contest(程序设计竞赛教练)
+**Dr. Yong Liu(刘勇)**, [Associate Professor(副教授、硕士生导师)](https://cist.buct.edu.cn/main.htm), Coach of Programming Contest(程序设计竞赛教练)
 
 **Email**: lyong [at] mail.buct.edu.cn
 
@@ -24,7 +23,7 @@ My research interests include **empirical software engineering**, **artificial i
 - ACM/ICPC Programming Contest Methods and Practice
 - Python Programming
 
-## AWARDS
+### AWARDS
 - 2022年，北京化工大学信息学院青年教师教学基本功大赛特等奖，最受师生（网络）欢迎奖
 - 2022年，北京化工大学新工科建设优秀案例二等奖
 - 2022年，北京市教育教学成果二等奖

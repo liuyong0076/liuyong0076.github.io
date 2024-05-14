@@ -6,96 +6,112 @@ title: Publications
 
 > Lastest Update: 15th May 2024&nbsp;  [中文版本 (Chinese Version)](https://liuyong0076.github.io/liuyong2024.github.io/publications-zh/)
 
-### PROGRAMMING CONTEST AWARDS
-
-
-## 2023
-- Hu Jin, Wang Kongyu, Wang Yao, ICPC Shen Yang Site, Bronze Medal.
-- Xue Mohan, Qiu Ruoxin, Fu Xiao, ICPC Ji Nan site, Silver Medal.
--Zhai Haotian, An Xiaoyang, Zheng Liangfei, ICPC Nan Jing Site, Bronze Medal.
-- Huang Dongqi, Zeng Zixun, Xu Wenbo, ICPC Nan Jing site, Silver Medal.
-- Xue Mohan, Qiu Ruoxin, Fu Xiao, ICPC Hang Zhou site, Silver Medal.
-- Huang Dongqi, Zeng Zixun, Xu Wenbo, ICPC Hang Zhou site, Bronze Medal.
-- Qiu Ruoxin, Ye Ke, Wang Peisen, CCPC-wFinal, Chong Qing, Silver Medal.
-- Tang Yan, Zhang Xinyi, Wang Yan, CCPC-wFinal, Chong Qing, Silver Medal.
-- Ji Yingyan, Fang Yucheng, Xu Yun, CCPC-wFinal, Chong Qing, Bronze Medal.
-- Hu Jin, Wang Kongyu, Wang Yao, ICPC Xi'An Site, Bronze Medal.
-- Yang Qingbo, Liu Junshu, Sun Tongyu, ICPC Xi'An Site, Silver Medal.
-- Zhai Haotian, An Xiaoyang, Zheng Liangfei, ICPC Xi'An Site, Silver Medal.
-- Huang Dongqi, Zeng Zixun, Xu Wenbo, CCPC Qinhuangdao Site, Silver Medal.
-- Huang Dongqi, Zeng Zixun, Xu Wenbo, ICPC ShanXi Invitational, Golden Medal.
-## 2022
-- Qiu Ruoxin, Ye Ke, Zhang Muqi, CCPC-wFinal, Golden Medal.
-- Fang Yucheng, Zhang Yuqi, Liu Jiatong, CCPC-wFinal, Bronze Medal.
-- Tang Yan, Zhang Xinyi, Xu Yun, CCPC-wFinal, Bronze Medal.
-- Wang Yan, Wang Peisen, Li Xinying, CCPC-wFinal, Bronze Medal.
-- Zeng Pufan, Li Peifeng, Xiong Wei, CCPC Guangzhou site, Bronze Medal.
-- Xu Wenbo, Han Mingchen, CCPC Mianyang site, Bronze Medal.
-- Ye Ke, Han MingChen, Huang Dongqi, CCPC Guangzhou site, Bronze Medal.
-- Liu XiangRui, Qiu Ruoxin, Huang Dongqi, CCPC Guilin site, Bronze Medal.
-- Zeng Pufan, Li Peifeng, Xiong Wei, ICPC Hefei site, Bronze Medal.
-- Zeng Zixun, Liang kaixing, Hong Shushi, ICPC Hefei site, Silver Medal.
-- Lv Jinhao, Jiang Yingjian, ZhaoYi Feiyang, ICPC Shenyang site, Bronze Medal.
-## 2021
-- Yu Zhuang, Shidong Zhang, Ke Ye, ICPC Jinan site, Golden Medal.
-- Yu Zhuang, Shidong Zhang, Ke Ye, CCPC Guilin site, Silver Medal.
-- Pinzhi Chen, Siqi Li, Yuanyuan Liu, CCPC wFinal, Silver Medal.
-- Wenjing Xie, Yuting Mei, Ruimin Fu, CCPC wFinal, Silver Medal.
-- Ke Ye, Yimeng Zhang, Muqi Zhang, CCPC wFinal, Bronze Medal.
-- Yu Zhuang, Shihai Wang, Ben Hua, ICPC Kunming site, Bronze Medal.
-- Yu Zhuang, Shihai Wang, Ben Hua, ICPC YinChuan site, Silver Medal.
-- Shidong Zhang, Zhaoxu Luo, Zhonghao Zhang, ICPC YinChuan site, Silver Medal.
-- Shidong Zhang, Zhaoxu Luo, Zhonghao Zhang, ICPC ShenYang site, Bronze Medal.
-## 2020
-- Xuchao Luo, Shidong Zhang, Zhonghao Zhang, CCPC WeiHai site, Bronze Medal.
-- Xuchao Luo, Shidong Zhang, Zhonghao Zhang, CCPC Changchun site, Bronze Medal.
-- Yu Zhuang, Shihai Wang, Ben Hua, CCPC MianYang Site, Silver Medal.
-- Yu Zhuang, Ben Hua, Shihai Wang, CCPC QinHuangDao site, Bronze Medal.
-- Pinzhi Chen, Siqi Li, Yuanyuan Liu, CCPC wFinal, Silver Medal.
-- Wenjing Xie, Yuting Mei, Xiao Li, CCPC wFinal, Bronze Medal.
-- Ruimin Fu, Yanru Shen, Liuxue Huang, CCPC wFinal, Bronze Medal.
-## 2019
-- Yikun Zhang, Chunjing Shi, Pinzhi Chen, CCPC w-Final, Silver Medal.
-- Chaoxu Luo, Zhonghao Zhang, Renren Jin, CCPC Xiamen, Bronze Medal.
-- Zicheng Luo, Ben Hua, Shihai Wang, CCPC Ha’erbin, Bronze Medal.
-- Chaoxu Luo, Zhonghao Zhang, Renren Jin, ICPC Nanchang, Bronze Medal.
-- Zicheng Luo, Ben Hua, Shihai Wang, ICPC Shanghai, Bronze Medal.
-- Yu Zhuang, Dongdong Xiong, Pinzhi Chen, ICPC Nanjing, Bronze Medal.
-- Chaoxu Luo, Zhonghao Zhang, Renren Jin, ICPC Xuzhou, Bronze Medal.
-- Yu Zhuang, Dongdong Xiong, Pinzhi Chen, ICPC Hongkong, Bronze Medal.
-- Zicheng Luo, Ben Hua, Shihai Wang, ICPC Shenyang, Bronze Medal.
-- Chaoxu Luo, Zhonghao Zhang, Renren Jin, CCPC final, Bronze Medal.
-## 2018
-- Yiding Hong, Youxin Pang, Xin Wang, ACM-ICPC Asia Reginal Contest Nanjing Site, Bronze Medal
-- Weijie Zhao, Quanda Liu, ACM-ICPC Asia Reginal Contest Xuzhou Site, Golden Medal
-- Yunhao Zhang, Zhaoxin Jiang, Wendi Fan, ACM-ICPC Asia Reginal Contest Qingdao Site, Bronze Medal
-- Yiding Hong, Youxin Pang, Xin Wang, ACM-ICPC Asia Reginal Contest Qingdao Site, Bronze Medal
-- Junyu Liu, Yixin Hu, Lifeng Zhang, ACM-ICPC Asia Reginal Contest Beijing Site, Bronze Medal
-- Renren Jin, Chen Wang, Zhonghao Zhang, ACM-ICPC Asia Reginal Contest Jiaozuo Site, Bronze Medal
-- Weijie Zhao, Quanda Liu, CCPC Final, Bronze Medal
-- Renren Jin, Chen Wang, Zhaoxu Luo, CCPC Guilin Site, Bronze Medal
-- Weijie Zhao, Quanda Liu, Peiyao Deng, CCPC Qinhuangdao site, Silver Medal
-- Weijie Zhao, Quanda Liu, Yikun Zhang, CCPC Jilin site, Silver Medal
-- Weijie Zhao, Quanda Liu, Peiyang Deng, ACM-ICPC Asia Reginal Contest Xi’an Invitational, Silver Medal
-- Fan Zhang, Jin Wang, Yikun Zhang, CCPC w-Final, Bronze Medal
-- Jiali Zhangxing, Jingyang Zang, Qunjing Shi, CCPC w-Final, Bronze Medal
-## 2017
-- Yiting Guo, Weijie Zhao, Quanda Liu. ACM-ICPC Asia Reginal Contest EcFinal 2017, Bronze Medal.
-- Peng Zhong, Yichao Li, Nan Yan. CCPC2017 Final, Bronze Medal
-- Yiting Guo, Weijie Zhao, Quanda Liu. ACM-ICPC Asia Reginal Contest Qingdao Site 2017, Gold Medal.
-- Xiao Zi, Bing Li, Feilong Zuo. ACM-ICPC Asia Reginal Contest Qingdao Site 2017, Silver Medal.
-- Yiting Guo, Weijie Zhao, Quanda Liu. ACM-ICPC Asia Reginal Contest Xian Site 2017, Silver Medal.
-- Peng Zhong, Yichao Li, Nan Yan. ACM-ICPC Asia Reginal Contest Xian Site 2017, Silver Medal.
-- Xiao Zi, Bing Li, Feilong Zuo. CCPC2017, Qinghuangdao site, Bronze Medal.
-- Yiting Guo, Weijie Zhao, Quanda Liu. CCPC2017 Haerbin site, Silver Medal
-- Peng Zhong, Yichao Li, Nan Yan. CCPC2017 Haerbin site, Bronze Medal
-- Fan Zhang, Xingjiali Zhang, Jin Wang. CCPC-WFinal, Bronze Medal.
-- Yichao Li, Nan Yan, Yiting Guo. ACM-ICPC Asia Reginal Invitational Contest Xian Site 2017, Bronze Medal.
-## 2016
-- Yining Zhang, Peng Zhong, Zexin Lu. ACM-ICPC Asia Reginal Contest Qingdao Site 2016, Bronze Medal.
-- Fan Zhang, Xingjiali Zhang, Jin Wang. CCPC-WFinal, Bronze Medal.
-## 2015
-- Yang Xu, Chaoxiang Chen, Yining Zhang. ACM-ICPC Asia Reginal Contest Changchun Site 2015, Bronze Medal.
-## 2014
-- Zeyu Sun, Yining Zhang, Di Zeng. ACM-ICPC Asia Reginal Contest Shanghai Site 2014, Bronze Medal.
-- Chentao Luo, Jiyi Shen, Chen Ni. ACM-ICPC Asia Reginal Invitational Contest Beijing Site 2014, Bronze Medal.
+### PUBLICATIONS
+1. [STVR2023] Delta4Ms: Improving Mutation-based Fault Localization by Eliminating Mutant Bias
+   Hengyuan Liu, Zheng Li, Baolong Han, Yangtao Liu, Xiang Chen, Yong Liu*
+   Software Testing, Verification & Reliability[SCI, CCF B]
+2. [ASE2023] OrdinalFix: Fixing Compilation Errors via Shortest-Path CFL Reachability with Attribute Checking
+   Wenjie Zhang, Junjie Chen, Yingfei Xiong, Yong Liu, Lu Zhang
+   38th IEEE/ACM International Conference on Automated Software Engineering (ASE2023) [EI, CCF A]
+3. [JSS2023] VsusFL: Variable-suspiciousness-based Fault Localization for Novice Programs
+   Zheng Li, Shumei Wu, Yong Liu*, Jitao Shen, Yonghao Wu, Zhanwen Zhang, Xiang Chen
+   Journal of Systems and Software 2023 [SCI, CCF B]
+4. [ICSME2023] GMBFL: Optimizing Mutation-Based Fault Localization via Graph Representation
+   Shumei Wu, Zheng Li, Yong Liu, Xiang Chen, Mingyu Li
+   International Conference on Software Maintenance and Evolution 2023 [EI, CCF B]
+5. [COMPSAC2023] Improving Fault Localization by Complex-Fault Oriented Higher-Order Mutant Generation
+   Yong Liu, Zexing Chang, Shumei Wu, Doyle Paul, Haifeng Wang and Xiang Chen
+   IEEE Computer Society Signature Conference on Computers, Software, and Applications 2023 [EI, CCF C]
+6. [COMPSAC2023] Identifying CC Test Cases with Multiple Features Extraction for Better Fault Localization
+   Yonghao Wu, Shuaihua Tian, Zezhong Yang, Zheng Li, Yong Liu and Xiang Chen
+   IEEE Computer Society Signature Conference on Computers, Software, and Applications 2023 [EI, CCF C]
+7. [COMPSAC2023] SGS: Mutant Reduction for Higher-order Mutation-based Fault Localization
+   Zheng Li, Luxi Fan, Hengyuan Liu, Yong Liu, Doyle Paul, Haifeng Wang and Xiang Chen
+   IEEE Computer Society Signature Conference on Computers, Software, and Applications 2023 [EI, CCF C]
+8. [SPE2022] CRMF: A Fault Localization Approach based on Class Reducteion and Method Call Frequency
+   Hengyuan Liu, Yong Liu, Zheng Li, Haifeng Wang, Xiang Chen
+   Software: Practice and Experience. [SCI, CCF B]
+9. [ICCSE2022] BUCTOL: VS Code Based Integrated Online Programming and Plagiarism Monitoring Platform
+   Yong Liu, Zhe Li, Yonghao Wu*, Bin Du*, Heng Jiang
+   IEEE International Conference on Computer Science and Education. [EI]
+10. [JSME2022] A Token-based Compilation Error Categorization and Its Applications
+    Haifeng Wang, Hengyuan Liu, Zheng LI*, Yong Liu*, Fuxiang Sun, XiangChen
+    Journal of Software Maintenance and Evolution[SCI, CCF B]
+11. [ISSRE2022] Improving the Performance of Mutation-based Fault Localization via Mutant Bias
+    Bin Du, Yuxiaoyang Cai, Haifeng Wang*, Yong Liu*, Xiang Chen
+    The 33rd IEEE International Symposium on Software Reliability Engineering[CCF B, EI]
+12. [TRel2022] Theoretical Analysis and Empirical Study on the Impact of Coincidental Correct Test Cases in Multiple Fault Localization
+    Yonghao Wu, Yong Liu*, Weibo Wang, Zheng Li*, Xiang Chen, Doyle Paul
+    IEEE Transactions on Reliability[SCI, TOP]
+13. [TRel2022] Can Higher-Order-Mutants Improve the Performance of Mutation-based Fault Localization?
+    Haifeng Wang, Zheng Li*,Yong Liu*, Xiang Chen, Doyle Paul, Yuxiaoyang Cai, Luxi Fan
+    IEEE Transactions on Reliability[SCI, TOP]
+14. [TRel2022] SeTransformer: A Transformer-based Code Semantic Parser for Code Comment Generation
+    Zheng Li, Yonghao Wu, Bin Peng, Xiang Chen, Zeyu Sun, Yong Liu*, Doyle Paul
+    IEEE Transactions on Reliability[SCI, TOP]
+15. [SEKM2021] VSBFL: Variable Value Sequence Based Fault Localization for Novice Programs
+    Zheng Li, Jitao Shen, Yonghao Wu*, Xiang Chen, Yong Liu*
+    International Workshop on Software Engineering and Knowledge Management, co-located with QRS2021. [EI]
+16. [IJSEKE2021] An empirical study on Higher-Order Mutation-based Fault Localization
+    Haifeng Wang, Zheng Li, Kun Lou, Xiang Chen, Yong Liu*, Ying Shang
+    Internation Journal of Software Engineering and Knowledge Engineering. [SCI, CCF C]
+17. [ICCSE2021] Automated Student Code Scoring by Analyzing Grammatical and Semantic Information of Code
+    Zheng Li, Liping Li, Yonghao Wu*, Yong Liu*, Xiang Chen
+    IEEE International Conference on Computer Science and Education. [EI]
+18. [ICCSE2021] Applying Faulty Statement Category Frequency to Localize Faults for Student Programs
+    Zheng Li, Xiaotang Zhou, Yonghao Wu*, Yong Liu*, Xiang Chen
+    IEEE International Conference on Computer Science and Education. [EI]
+19. [ICCSE2021] Data-driven based student programming competition award prediction via machine learning models
+    Yong Liu, Kai Tian, Haifeng Wang*, Xiang Chen
+    IEEE International Conference on Computer Science and Education. [EI]
+20. [DSA2021] HMBFL: Higher-Order Mutation-Based Fault Localization
+    Zheng Li, Butian Shi, Haifeng Wang*, Yong Liu*, Xiang Chen
+    International Conference of Dependable Systems and Their Applications. [EI]
+21. [DSA2021] Fault Localization-Guided Test Data Generation Approach for Novice Programs
+    Zheng Li, Xiaotang Zhou, Yonghao Wu*, Yong Liu*, Xiang Chen
+    International Conference of Dependable Systems and Their Applications. [EI]
+22. [JSS2021] SeCNN: A Semantic CNN Parser for Code Comment Generation
+    Zheng Li, Yonghao Wu, Bin Peng, Zeyu Sun*, Xiang Chen, Yong Liu*, Xiang Chen
+    Journal of Systems and Software. [SCI, CCF-B]
+23. [COMPSAC2021] CLACER: A Deep Learning-based Compilation Error Classification Method for Novice Students' Programs
+    Zheng Li, Fuxiang Sun, Haifeng Wang*, Yifan Ding, Yong Liu*, Xiang Chen
+    COMPSAC2021. [CCF C]
+24. [计算机学报2021]软件多缺陷定位方法研究综述.
+    李征，吴永豪，王海峰，陈翔*，刘勇*
+    计算机学报2021. [一级学报]
+25. [JCST2020]FATOC: Bug isolation-based multi-fault localiation by using optics clustering.
+    Yonghao Wu, Zheng Li, Yong Liu*, Xiang Chen
+    Journal of Computer Science and Technology. 2020. [SCI,CCF-B]
+26. [IEEE Access2020]IETCR: An Information Entropy Based Test Case Reduction Strategy for Mutation-Based Fault Localization.
+    Haifeng Wang, Bin Du, Jie He, Yong Liu*, Xiang Chen.
+    IEEE Access 2020[SCI]
+27. [JSS2020]HMER: A Hybrid Mutation Execution Reduction approach for Mutation-based Fault Localization.
+    Zheng Li, Haifeng Wang, Yong Liu*.
+    Journal of Systems & Software[SCI,CCF-B]
+28. [COMPSAC2020]Using Fine-grained Test Cases for Improving Novice Program Fault Localization.
+    Zheng Li, Deli Yu, Yonghao Wu, Yong Liu∗.
+    IEEE Computer Society Signature Conference on Computers, Software and Applications(COMPSAC). IEEE, 2020.[EI,CCF-C]
+29. [COMPSAC2020]IRBFL: An Information Retrieval Based Fault Localization Approach.
+    Zheng Li, Xue Bai, Haifeng Wang, Yong Liu∗.
+    IEEE Computer Society Signature Conference on Computers, Software and Applications(COMPSAC). IEEE, 2020.[EI,CCF-C]
+30. [QRS2019]An Empirical Study of Bug Isolation on theEffectiveness of Multiple Fault Localization.
+    Zheng Li, Yonghao Wu, Yong Liu*.
+    IEEE International Conference on Software Quality, Reliability and Security. IEEE, 2019.[EI,CCF-C]
+31. [JSS2019]A Weighted Fuzzy Classification Approach to Identify and Manipulate Coincidental Correct Test Cases for Fault Localization.
+    Yong Liu, Meiying Li, Yonghao Wu, Zheng Li*.
+    Journal of Systems and Software, 2019(151):20-37[SCI,CCF-B]
+32. [IS2018]An Optimal Mutation Execution Strategy for Cost Reduction of Mutation-Based Fault Localization.
+    Yong Liu, Zheng Li, Ruilian Zhao*, Pei Gong.
+    Information Science,2018(422):572-596[SCI TOP,CCF-B]
+33. [QRS2017]Statement-Oriented Mutant Reduction Strategy for Mutation Based Fault Localization.
+    Yong Liu, Zheng Li, Linxin Wang, Ruilian Zhao*.
+    S IEEE International Conference on Software Quality, Reliability and Security. IEEE, 2017.[EI,CCF-C]
+34. [COMPSAC2017]Fault Classification Oriented Spectrum Based Fault Localization.
+    Xiujing Liu, Yong Liu, Zheng Li, Ruilian Zhao.
+    IEEE Computer Society Signature Conference on Computers, Software and Applications(COMPSAC). IEEE, 2017.[EI,CCF-C]
+35. [SATE2016] Identify Coincidental Correct Test Cases Based on Fuzzy Classification.
+    Zheng Li, Meiying Li, Yong Liu*, Jingyao Geng.
+    International Conference on Software Analysis, Testing and Evolution. IEEE, 2016:72-77.[EI]
+36. [SSBSE2016]Test Data Generation Efficiency Prediction Model for EFSM Based on MGGP.
+    Weiwei Wang, Ruilian Zhao, Ying Shang, Yong Liu.
+    Symposium of Search Based Software Engineering 2016. Springer, Cham, 2016.[EI]

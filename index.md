@@ -10,8 +10,10 @@ layout: page
 
 **Email**: lyong [at] mail.buct.edu.cn
 
+
+
 I received the B.Sc. M.Sc. and Ph.D. degrees from BUCT in 2008, 2011 and 2018 respectively. My advisor is [Professor Zheng Li](http://cist.buct.edu.cn/staff/zheng/). 
-# My research interests include empirical software engineering, artificial intelligence, and software testing:
+My research interests include **empirical software engineering**, **artificial intelligence**, and **software testing**:
 - Intelligent Software Engineering（智能化软件工程）
 - Software Development and Analysis（软件开发与分析）
 - Industrial Internet（工业互联网）
@@ -48,7 +50,7 @@ I received the B.Sc. M.Sc. and Ph.D. degrees from BUCT in 2008, 2011 and 2018 re
 - 2015级：史晶晶-字节；
 - 2014级：朱占磊-百度；
 
-# 研究生招生要求：喜欢编程。研究生期间课题组培养的任务是培养学生完成三个目标：
+研究生招生要求：喜欢编程。研究生期间课题组培养的任务是培养学生完成**三个目标**：
 - 参加编程竞赛获得国家级奖励
 - 胜任企业实际项目开发
 - 发表高水平学术论文

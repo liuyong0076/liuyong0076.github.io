@@ -18,7 +18,7 @@ My research interests include **empirical software engineering**, **artificial i
 - Source Code Analysis and Manipulation（源代码分析与处理）
 - Intelligent Programming Education（智能编程教育）
 
-## TEACHING COURSES
+### TEACHING COURSES
 - Data Structure
 - ACM/ICPC Programming Contest Methods and Practice
 - Python Programming

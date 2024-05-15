@@ -1,5 +1,7 @@
 ---
-layout: students
+layout: page
+permalink: /students/index.html
+title: Students
 ---
 
 ### GRADUATE STUDENTS

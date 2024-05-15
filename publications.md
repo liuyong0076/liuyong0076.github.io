@@ -7,14 +7,20 @@ title: Publications
 > Lastest Update: 15th May 2024&nbsp;  [中文版本 (Chinese Version)](https://liuyong0076.github.io/liuyong2024.github.io/publications-zh/)
 
 ### PUBLICATIONS
+1. [QRS-w2024] Predictive Mutation-Based Fault Localization: Balancing Effectiveness and Cost.
+   Zheng Li, Shunqing Xu, Shumei Wu, Luxi Fan, Yong Liu.
+   Workshop in IEEE International Conference on Software Quality, Reliability and Security. IEEE, 2024.[EI]
+1. [QRS-w2024] Enhancing Programming Competition Performance: A Data-Driven Approach to Personalized Training.
+   Bin Du, Jize Yang, Shumei Wu, Zhanwen Zhang, Yong Liu.
+   Workshop in IEEE International Conference on Software Quality, Reliability and Security. IEEE, 2024.[EI]
 1. [COMPSAC2024] Neural-MBFL: Improving Mutation-Based Fault Localization by Neural Mutation
    Bin Du, Baolong Han, Hengyuan Liu, Zexing Chang, Yong Liu, Xiang Chen.
    IEEE Computer Society Signature Conference on Computers, Software, and Applications 2024 [EI, CCF C]
 1. [JSEP2024] Multi-Objective Optimization-Based & Fault-Localization Oriented Test Case Generation for Novice Programs
-   Yong Liu, Zezhong Yang, Luxi Fan, Yonghao Wu, Xiang Chen, Xiaotang Zhou
+   Yong Liu, Zezhong Yang, Luxi Fan, Yonghao Wu, Xiang Chen, Xiaotang Zhou.
    Journal of Software: Evolution and Process. [SCI, CCF B]
 1. [FSE2024] ConDefects: A Complementary Dataset to Address the Data Leakage Concern for LLM-Based Fault Localization and Program Repair
-   Yonghao Wu; Zheng Li; Jie M. Zhang; Yong Liu
+   Yonghao Wu, Zheng Li, Jie M. Zhang, Yong Liu.
    Demonstrations-track in FSE 2024
 1. [STVR2023] Delta4Ms: Improving Mutation-based Fault Localization by Eliminating Mutant Bias
    Hengyuan Liu, Zheng Li, Baolong Han, Yangtao Liu, Xiang Chen, Yong Liu*
@@ -80,16 +86,16 @@ title: Publications
     Zheng Li, Xiaotang Zhou, Yonghao Wu*, Yong Liu*, Xiang Chen
     International Conference of Dependable Systems and Their Applications. [EI]
 22. [JSS2021] SeCNN: A Semantic CNN Parser for Code Comment Generation
-    Zheng Li, Yonghao Wu, Bin Peng, Zeyu Sun*, Xiang Chen, Yong Liu*, Xiang Chen
+    Zheng Li, Yonghao Wu, Bin Peng, Zeyu Sun*, Xiang Chen, Yong Liu*, Xiang Chen.
     Journal of Systems and Software. [SCI, CCF-B]
 23. [COMPSAC2021] CLACER: A Deep Learning-based Compilation Error Classification Method for Novice Students' Programs
-    Zheng Li, Fuxiang Sun, Haifeng Wang*, Yifan Ding, Yong Liu*, Xiang Chen
+    Zheng Li, Fuxiang Sun, Haifeng Wang*, Yifan Ding, Yong Liu*, Xiang Chen.
     COMPSAC2021. [CCF C]
 24. [计算机学报2021]软件多缺陷定位方法研究综述.
-    李征，吴永豪，王海峰，陈翔*，刘勇*
+    李征，吴永豪，王海峰，陈翔*，刘勇*.
     计算机学报2021. [一级学报]
 25. [JCST2020]FATOC: Bug isolation-based multi-fault localiation by using optics clustering.
-    Yonghao Wu, Zheng Li, Yong Liu*, Xiang Chen
+    Yonghao Wu, Zheng Li, Yong Liu*, Xiang Chen.
     Journal of Computer Science and Technology. 2020. [SCI,CCF-B]
 26. [IEEE Access2020]IETCR: An Information Entropy Based Test Case Reduction Strategy for Mutation-Based Fault Localization.
     Haifeng Wang, Bin Du, Jie He, Yong Liu*, Xiang Chen.

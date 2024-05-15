@@ -21,13 +21,20 @@
 
   gtag('config', 'G-T5N5JY1E21');
 
-
+  document.addEventListener("DOMContentLoaded", function() {
+    var articleWrap = document.getElementById("article-wrap");
+    if (articleWrap &&window.location.href.indexOf("publications") > -1) {
+      var contentHTML = articleWrap.innerHTML;
+      var updatedHTML = updatedHTML.replace(/Golden Medal/g, '<span class="gold-highlight">Golden Medal</span>');
+      articleWrap.innerHTML = updatedHTML;
+    }
+  });
+  
   document.addEventListener("DOMContentLoaded", function() {
     var articleWrap = document.getElementById("article-wrap");
     if (articleWrap &&window.location.href.indexOf("publications") > -1) {
       var contentHTML = articleWrap.innerHTML;
       var updatedHTML = contentHTML.replace(/\[(.*?)\]/g, '<span class="highlight1">[$1]</span>');
-      updatedHTML = updatedHTML.replace(/Golden Medal/g, '<span class="gold-highlight">Golden Medal</span>');
       articleWrap.innerHTML = updatedHTML;
     }
   });

@@ -27,6 +27,7 @@
     if (articleWrap &&window.location.href.indexOf("publications") > -1) {
       var contentHTML = articleWrap.innerHTML;
       var updatedHTML = contentHTML.replace(/\[(.*?)\]/g, '<span class="highlight1">[$1]</span>');
+      updatedHTML = updatedHTML.replace(/Golden Medal/g, '<span class="gold-highlight">Golden Medal</span>');
       articleWrap.innerHTML = updatedHTML;
     }
   });
@@ -47,6 +48,19 @@
   .highlight1 {
     color: #F00;  /* 设置中括号内的字体颜色为红色 */
   }
+  .gold-highlight {
+      color: gold; /* 将 "gold" 文字颜色设置为金色 */
+      position: relative; /* 设置相对定位 */
+  }
+  
+  .gold-highlight::after {
+      content: "\1F3C6"; /* Unicode 奖杯图标 */
+      position: absolute; /* 设置绝对定位 */
+      top: -0.3em; /* 调整奖杯图标位置 */
+      left: 0.1em; /* 调整奖杯图标位置 */
+      font-size: 1.2em; /* 调整奖杯图标大小 */
+  }
+  
 </style>
   
 </head>

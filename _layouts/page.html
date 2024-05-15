@@ -25,7 +25,9 @@
     var articleWrap = document.getElementById("article-wrap");
     if (articleWrap &&window.location.href.indexOf("publications") > -1) {
       var contentHTML = articleWrap.innerHTML;
-      var updatedHTML = updatedHTML.replace(/Golden Medal/g, '<span class="gold-highlight">Golden Medal</span>');
+      var updatedHTML = contentHTML.replace(/Golden Medal/g, '<span class="gold-highlight">Golden Medal</span>');
+      updatedHTML = contentHTML.replace(/Silver Medal/g, '<span class="silver-highlight">Silver Medal</span>');
+      updatedHTML = contentHTML.replace(/Brozen Medal/g, '<span class="broze-highlight">Brozen Medal</span>');
       articleWrap.innerHTML = updatedHTML;
     }
   });
@@ -61,7 +63,30 @@
   }
   
   .gold-highlight::after {
-      content: "\1F3C6"; /* Unicode 奖杯图标 */
+      content: "\1F947"; /* Unicode 金牌 */
+      position: absolute; /* 设置绝对定位 */
+      top: -0.3em; /* 调整奖杯图标位置 */
+      left: 0.1em; /* 调整奖杯图标位置 */
+      font-size: 1.2em; /* 调整奖杯图标大小 */
+  }
+  .silver-highlight {
+    color: gold; /* 将 "gold" 文字颜色设置为金色 */
+    position: relative; /* 设置相对定位 */
+  }
+  
+  .silver-highlight::after {
+      content: "\1F948"; /* Unicode 银牌 */
+      position: absolute; /* 设置绝对定位 */
+      top: -0.3em; /* 调整奖杯图标位置 */
+      left: 0.1em; /* 调整奖杯图标位置 */
+      font-size: 1.2em; /* 调整奖杯图标大小 */
+  }
+  .broze-highlight {
+    color: gold; /* 将 "gold" 文字颜色设置为金色 */
+    position: relative; /* 设置相对定位 */
+  }
+  .silver-highlight::after {
+      content: "\1F949"; /* Unicode 铜牌牌 */
       position: absolute; /* 设置绝对定位 */
       top: -0.3em; /* 调整奖杯图标位置 */
       left: 0.1em; /* 调整奖杯图标位置 */

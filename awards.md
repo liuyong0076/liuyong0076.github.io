@@ -24,6 +24,8 @@ title: Awards
 - Zhai Haotian, An Xiaoyang, Zheng Liangfei, ICPC Xi'An Site, Silver Medal.
 - Huang Dongqi, Zeng Zixun, Xu Wenbo, CCPC Qinhuangdao Site, Silver Medal.
 - Huang Dongqi, Zeng Zixun, Xu Wenbo, ICPC ShanXi Invitational, Golden Medal.
+
+
 ## 2022
 - Qiu Ruoxin, Ye Ke, Zhang Muqi, CCPC-wFinal, Golden Medal.
 - Fang Yucheng, Zhang Yuqi, Liu Jiatong, CCPC-wFinal, Bronze Medal.
@@ -36,6 +38,8 @@ title: Awards
 - Zeng Pufan, Li Peifeng, Xiong Wei, ICPC Hefei site, Bronze Medal.
 - Zeng Zixun, Liang kaixing, Hong Shushi, ICPC Hefei site, Silver Medal.
 - Lv Jinhao, Jiang Yingjian, ZhaoYi Feiyang, ICPC Shenyang site, Bronze Medal.
+
+
 ## 2021
 - Yu Zhuang, Shidong Zhang, Ke Ye, ICPC Jinan site, Golden Medal.
 - Yu Zhuang, Shidong Zhang, Ke Ye, CCPC Guilin site, Silver Medal.
@@ -46,6 +50,8 @@ title: Awards
 - Yu Zhuang, Shihai Wang, Ben Hua, ICPC YinChuan site, Silver Medal.
 - Shidong Zhang, Zhaoxu Luo, Zhonghao Zhang, ICPC YinChuan site, Silver Medal.
 - Shidong Zhang, Zhaoxu Luo, Zhonghao Zhang, ICPC ShenYang site, Bronze Medal.
+
+
 ## 2020
 - Xuchao Luo, Shidong Zhang, Zhonghao Zhang, CCPC WeiHai site, Bronze Medal.
 - Xuchao Luo, Shidong Zhang, Zhonghao Zhang, CCPC Changchun site, Bronze Medal.
@@ -54,6 +60,8 @@ title: Awards
 - Pinzhi Chen, Siqi Li, Yuanyuan Liu, CCPC wFinal, Silver Medal.
 - Wenjing Xie, Yuting Mei, Xiao Li, CCPC wFinal, Bronze Medal.
 - Ruimin Fu, Yanru Shen, Liuxue Huang, CCPC wFinal, Bronze Medal.
+
+
 ## 2019
 - Yikun Zhang, Chunjing Shi, Pinzhi Chen, CCPC w-Final, Silver Medal.
 - Chaoxu Luo, Zhonghao Zhang, Renren Jin, CCPC Xiamen, Bronze Medal.
@@ -65,6 +73,8 @@ title: Awards
 - Yu Zhuang, Dongdong Xiong, Pinzhi Chen, ICPC Hongkong, Bronze Medal.
 - Zicheng Luo, Ben Hua, Shihai Wang, ICPC Shenyang, Bronze Medal.
 - Chaoxu Luo, Zhonghao Zhang, Renren Jin, CCPC final, Bronze Medal.
+
+
 ## 2018
 - Yiding Hong, Youxin Pang, Xin Wang, ACM-ICPC Asia Reginal Contest Nanjing Site, Bronze Medal
 - Weijie Zhao, Quanda Liu, ACM-ICPC Asia Reginal Contest Xuzhou Site, Golden Medal
@@ -79,6 +89,8 @@ title: Awards
 - Weijie Zhao, Quanda Liu, Peiyang Deng, ACM-ICPC Asia Reginal Contest Xi’an Invitational, Silver Medal
 - Fan Zhang, Jin Wang, Yikun Zhang, CCPC w-Final, Bronze Medal
 - Jiali Zhangxing, Jingyang Zang, Qunjing Shi, CCPC w-Final, Bronze Medal
+
+
 ## 2017
 - Yiting Guo, Weijie Zhao, Quanda Liu. ACM-ICPC Asia Reginal Contest EcFinal 2017, Bronze Medal.
 - Peng Zhong, Yichao Li, Nan Yan. CCPC2017 Final, Bronze Medal
@@ -91,11 +103,17 @@ title: Awards
 - Peng Zhong, Yichao Li, Nan Yan. CCPC2017 Haerbin site, Bronze Medal
 - Fan Zhang, Xingjiali Zhang, Jin Wang. CCPC-WFinal, Bronze Medal.
 - Yichao Li, Nan Yan, Yiting Guo. ACM-ICPC Asia Reginal Invitational Contest Xian Site 2017, Bronze Medal.
+
+  
 ## 2016
 - Yining Zhang, Peng Zhong, Zexin Lu. ACM-ICPC Asia Reginal Contest Qingdao Site 2016, Bronze Medal.
 - Fan Zhang, Xingjiali Zhang, Jin Wang. CCPC-WFinal, Bronze Medal.
+
+
 ## 2015
 - Yang Xu, Chaoxiang Chen, Yining Zhang. ACM-ICPC Asia Reginal Contest Changchun Site 2015, Bronze Medal.
+
+
 ## 2014
 - Zeyu Sun, Yining Zhang, Di Zeng. ACM-ICPC Asia Reginal Contest Shanghai Site 2014, Bronze Medal.
 - Chentao Luo, Jiyi Shen, Chen Ni. ACM-ICPC Asia Reginal Invitational Contest Beijing Site 2014, Bronze Medal.

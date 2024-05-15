@@ -20,19 +20,21 @@
   gtag('js', new Date());
 
   gtag('config', 'G-T5N5JY1E21');
+
+
+  document.addEventListener("DOMContentLoaded", function() {
+    var articleWrap = document.getElementById("article-wrap");
+    if (articleWrap) {
+      var contentHTML = articleWrap.innerHTML;
+      var updatedHTML = contentHTML.replace(/\[(.*?)\]/g, '<span class="highlight">[$1]</span>');
+      articleWrap.innerHTML = updatedHTML;
+    }
+  });
 </script>
 
 <style>
-  /* 将中括号及其中的内容设置为红色 */
-  .article-wrap::before,
-  .article-wrap::after {
-      content: "[";
-      color: red;
-  }
-  
-  .article-wrap::after {
-      content: "]";
-      color: red;
+  .highlight {
+    color: red; /* 设置中括号内的字体颜色为红色 */
   }
 </style>
   
@@ -59,7 +61,7 @@
       <h1 itemprop="headline">{{ page.title }}</h1>
     </div><!--/ .headline-wrap -->
   {% endcomment %}
-    <div class="article-wrap" itemprop="text">
+    <div class="article-wrap" itemprop="text" id="article-wrap">
       {{ content }}
     </div><!-- /.article-wrap -->
   </article>

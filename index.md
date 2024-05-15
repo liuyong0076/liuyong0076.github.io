@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+### About Me
 Dr. Yong Liu(刘勇), Professor(博士, 教授, 硕士生导师), Coach of Programming Contest(程序设计竞赛教练)
 
 **Email**: lyong [at] mail.buct.edu.cn

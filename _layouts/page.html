@@ -26,8 +26,8 @@
     if (articleWrap &&window.location.href.indexOf("publications") > -1) {
       var contentHTML = articleWrap.innerHTML;
       var updatedHTML = contentHTML.replace(/Golden Medal/g, '<span class="gold-highlight">Golden Medal</span>');
-      updatedHTML = contentHTML.replace(/Silver Medal/g, '<span class="silver-highlight">Silver Medal</span>');
-      updatedHTML = contentHTML.replace(/Brozen Medal/g, '<span class="broze-highlight">Brozen Medal</span>');
+      updatedHTML = updatedHTML.replace(/Silver Medal/g, '<span class="silver-highlight">Silver Medal</span>');
+      updatedHTML = updatedHTML.replace(/Brozen Medal/g, '<span class="broze-highlight">Brozen Medal</span>');
       articleWrap.innerHTML = updatedHTML;
     }
   });

@@ -12,7 +12,7 @@ Dr. Yong Liu(刘勇), Professor(博士, 教授, 硕士生导师), Coach of Progr
 
 **Email**: lyong [at] mail.buct.edu.cn
 
-I received the B.Sc. M.Sc. and Ph.D. degrees from BUCT in 2008, 2011 and 2018 respectively. My advisor is [Professor Zheng Li](http://cist.buct.edu.cn/staff/zheng/). 
+I received the B.Sc. M.Sc. and Ph.D. degrees from BUCT. My advisor is Professor Zheng Li. 
 
 My research interests include **empirical software engineering**, **artificial intelligence**, and **software testing**:
 - Intelligent Software Engineering（智能化软件工程）

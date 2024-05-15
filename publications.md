@@ -7,6 +7,15 @@ title: Publications
 > Lastest Update: 15th May 2024&nbsp;  [中文版本 (Chinese Version)](https://liuyong0076.github.io/liuyong2024.github.io/publications-zh/)
 
 ### PUBLICATIONS
+1. [COMPSAC2024] Neural-MBFL: Improving Mutation-Based Fault Localization by Neural Mutation
+   Bin Du, Baolong Han, Hengyuan Liu, Zexing Chang, Yong Liu, Xiang Chen.
+   IEEE Computer Society Signature Conference on Computers, Software, and Applications 2024 [EI, CCF C]
+1. [JSEP2024] Multi-Objective Optimization-Based & Fault-Localization Oriented Test Case Generation for Novice Programs
+   Yong Liu, Zezhong Yang, Luxi Fan, Yonghao Wu, Xiang Chen, Xiaotang Zhou
+   Journal of Software: Evolution and Process. [SCI, CCF B]
+1. [FSE2024] ConDefects: A Complementary Dataset to Address the Data Leakage Concern for LLM-Based Fault Localization and Program Repair
+   Yonghao Wu; Zheng Li; Jie M. Zhang; Yong Liu
+   Demonstrations-track in FSE 2024
 1. [STVR2023] Delta4Ms: Improving Mutation-based Fault Localization by Eliminating Mutant Bias
    Hengyuan Liu, Zheng Li, Baolong Han, Yangtao Liu, Xiang Chen, Yong Liu*
    Software Testing, Verification & Reliability[SCI, CCF B]

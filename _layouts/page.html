@@ -23,7 +23,7 @@
 
   document.addEventListener("DOMContentLoaded", function() {
     var articleWrap = document.getElementById("article-wrap");
-    if (articleWrap &&window.location.href.indexOf("publications") > -1) {
+    if (articleWrap &&window.location.href.indexOf("awards") > -1) {
       var contentHTML = articleWrap.innerHTML;
       var updatedHTML = contentHTML.replace(/Golden Medal/g, '<span class="gold-highlight">Golden Medal</span>');
       updatedHTML = updatedHTML.replace(/Silver Medal/g, '<span class="silver-highlight">Silver Medal</span>');

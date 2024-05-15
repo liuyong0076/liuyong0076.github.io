@@ -26,15 +26,15 @@
     var articleWrap = document.getElementById("article-wrap");
     if (articleWrap) {
       var contentHTML = articleWrap.innerHTML;
-      var updatedHTML = contentHTML.replace(/\[(.*?)\]/g, '<span class="highlight">[$1]</span>');
+      var updatedHTML = contentHTML.replace(/\[(.*?)\]/g, '<span class="highlight1">[$1]</span>');
       articleWrap.innerHTML = updatedHTML;
     }
   });
 </script>
 
 <style>
-  .highlight {
-    color: red; /* 设置中括号内的字体颜色为红色 */
+  .highlight1 {
+    color: #F00;  /* 设置中括号内的字体颜色为红色 */
   }
 </style>
   

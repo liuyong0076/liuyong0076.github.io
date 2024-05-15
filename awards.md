@@ -9,7 +9,7 @@ title: Awards
 ### PROGRAMMING CONTEST AWARDS
 
 
-  ## 2023
+## 2023
 - Hu Jin, Wang Kongyu, Wang Yao, ICPC Shen Yang Site, Bronze Medal.
 - Xue Mohan, Qiu Ruoxin, Fu Xiao, ICPC Ji Nan site, Silver Medal.
 - Zhai Haotian, An Xiaoyang, Zheng Liangfei, ICPC Nan Jing Site, Bronze Medal.

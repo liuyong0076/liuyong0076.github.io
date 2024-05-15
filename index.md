@@ -3,23 +3,24 @@ layout: page
 ---
 
 ## About Me
-Dr. Yong Liu(刘勇), Professor(博士, 教授, 硕士生导师), Coach of Programming Contest(程序设计竞赛教练)
+Dr. Yong Liu(刘勇), Professor, Coach of Programming Contest
 
 **Email**: lyong [at] mail.buct.edu.cn
 
 I received the B.Sc. M.Sc. and Ph.D. degrees from BUCT. My advisor is Professor Zheng Li. 
 
 My research interests include **empirical software engineering**, **artificial intelligence**, and **software testing**:
-- Intelligent Software Engineering（智能化软件工程）
-- Software Development and Analysis（软件开发与分析）
-- Industrial Internet（工业互联网）
-- Source Code Analysis and Manipulation（源代码分析与处理）
-- Intelligent Programming Education（智能编程教育）
+- Intelligent Software Engineering
+- Software Development and Analysis
+- Industrial Internet
+- Source Code Analysis and Manipulation
+- Intelligent Programming Education
 
 ### TEACHING COURSES
 - Data Structure
 - ACM/ICPC Programming Contest Methods and Practice
 - Python Programming
+- Python and Pygame
 
 ### AWARDS
 - 2022年，北京化工大学信息学院青年教师教学基本功大赛特等奖，最受师生（网络）欢迎奖

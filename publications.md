@@ -7,6 +7,9 @@ title: Publications
 
 ### PUBLICATIONS
 
+1. [QRS] Empirical Evaluation of Large Language Models for Novice Program Fault Localization.
+   Yangtao Liu, Hengyuan Liu, Zezhong Yang, Zheng Li, Yong Liu.
+   IEEE International Conference on Software Quality, Reliability and Security. IEEE, 2024. [EI, CCF C]
 1. [QRS-w2024] Predictive Mutation-Based Fault Localization: Balancing Effectiveness and Cost.
    Zheng Li, Shunqing Xu, Shumei Wu, Luxi Fan, Yong Liu.
    Workshop in IEEE International Conference on Software Quality, Reliability and Security. IEEE, 2024.[EI]
@@ -21,7 +24,7 @@ title: Publications
    Journal of Software: Evolution and Process. [SCI, CCF B]
 5. [FSE2024] ConDefects: A Complementary Dataset to Address the Data Leakage Concern for LLM-Based Fault Localization and Program Repair.
    Yonghao Wu, Zheng Li, Jie M. Zhang, Yong Liu.
-   Demonstrations-track in FSE 2024
+   Demonstrations-track in FSE 2024.[EI]
 6. [STVR2023] Delta4Ms: Improving Mutation-based Fault Localization by Eliminating Mutant Bias.
    Hengyuan Liu, Zheng Li, Baolong Han, Yangtao Liu, Xiang Chen, Yong Liu*.
    Software Testing, Verification & Reliability[SCI, CCF B]

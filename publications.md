@@ -7,7 +7,7 @@ title: Publications
 
 ### PUBLICATIONS
 
-1. [QRS] Empirical Evaluation of Large Language Models for Novice Program Fault Localization.
+1. [QRS2024] Empirical Evaluation of Large Language Models for Novice Program Fault Localization.
    Yangtao Liu, Hengyuan Liu, Zezhong Yang, Zheng Li, Yong Liu.
    IEEE International Conference on Software Quality, Reliability and Security. IEEE, 2024. [EI, CCF C]
 1. [QRS-w2024] Predictive Mutation-Based Fault Localization: Balancing Effectiveness and Cost.

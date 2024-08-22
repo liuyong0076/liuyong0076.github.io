@@ -6,7 +6,12 @@ title: Publications
 ---
 
 ### PUBLICATIONS
-
+1. [JSS2024] GBSR: Graph-Based Suspiciousness Refinement for Improving Fault Localization.
+   Zheng Li, Mingyu Li, Shumei Wu*, Shunqing Xu, Xiang Chen, Yong Liu*.
+   Journal of Systems and Software 2024 [SCI, CCF B]
+1. [ISSRE-w2024] TLFL: Token-Level Fault Localization for Novice Programs via Graph Representation Learning.
+   Yong Liu, Ruishi Huang, Jize Yang, Binbin Yang, Shumei Wu.
+   IEEE International Symposium on Software Reliability Engineering. IEEE, 2024. [EI]
 1. [QRS2024] Empirical Evaluation of Large Language Models for Novice Program Fault Localization.
    Yangtao Liu, Hengyuan Liu, Zezhong Yang, Zheng Li, Yong Liu.
    IEEE International Conference on Software Quality, Reliability and Security. IEEE, 2024. [EI, CCF C]

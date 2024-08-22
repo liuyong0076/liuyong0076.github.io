@@ -6,6 +6,8 @@ title: Awards
 
 ### PROGRAMMING CONTEST AWARDS
 
+## 2024 
+- Xu Wenbo, Baidu AStar, Gold Medal.
 
 ## 2023
 - Hu Jin, Wang Kongyu, Wang Yao, ICPC Shen Yang Site, Bronze Medal.

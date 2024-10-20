@@ -30,7 +30,7 @@ title: Publications
 5. [FSE2024] ConDefects: A Complementary Dataset to Address the Data Leakage Concern for LLM-Based Fault Localization and Program Repair.
    Yonghao Wu, Zheng Li, Jie M. Zhang, Yong Liu.
    Demonstrations-track in FSE 2024.[EI]
-6. [STVR2023] Delta4Ms: Improving Mutation-based Fault Localization by Eliminating Mutant Bias.
+6. [STVR2024] Delta4Ms: Improving Mutation-based Fault Localization by Eliminating Mutant Bias.
    Hengyuan Liu, Zheng Li, Baolong Han, Yangtao Liu, Xiang Chen, Yong Liu*.
    Software Testing, Verification & Reliability[SCI, CCF B]
 7. [ASE2023] OrdinalFix: Fixing Compilation Errors via Shortest-Path CFL Reachability with Attribute Checking.

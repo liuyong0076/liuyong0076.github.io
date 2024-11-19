@@ -6,7 +6,7 @@ title: Publications
 ---
 
 ### PUBLICATIONS
-1. Integrating Neural Mutation into Mutation-Based Fault Localization: A Hybrid Approach.
+1. [JSS2024] Integrating Neural Mutation into Mutation-Based Fault Localization: A Hybrid Approach.
    Hengyuan Liu, Zheng Li, Baolong Han, Xiang Chen, Doyle Paul, Yong Liu. 
    Journal of Systems and Software 2024 [SCI, CCF B]
 3. [JSS2024] GBSR: Graph-Based Suspiciousness Refinement for Improving Fault Localization.

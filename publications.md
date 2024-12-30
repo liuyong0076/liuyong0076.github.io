@@ -6,6 +6,9 @@ title: Publications
 ---
 
 ### PUBLICATIONS
+1. [IST2025] Boosting Mutation-based Fault Localization by Effectively Generating Higher-Order Mutants.
+   Shumei Wu, Binbin Yang, Zexing Chang, Zheng Li∗, Xiang Chen, Yong Liu∗. 
+   Information and Software Technology 2025 [SCI, CCF B]
 1. [JSS2024] Integrating Neural Mutation into Mutation-Based Fault Localization: A Hybrid Approach.
    Hengyuan Liu, Zheng Li, Baolong Han, Xiang Chen, Doyle Paul, Yong Liu. 
    Journal of Systems and Software 2024 [SCI, CCF B]

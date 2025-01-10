@@ -6,6 +6,9 @@ title: Publications
 ---
 
 ### PUBLICATIONS
+1. [TOSEM2025] An Empirical Study on Challenges for LLM Application Developers.
+   Chen Xiang, Gao Chaoyang, Chen Chunyang, Zhang Guangbei, Liu Yong.
+   ACM Transactions on Software Engineering and Methodology 2025[SCI, CCF A]
 1. [IST2025] Boosting Mutation-based Fault Localization by Effectively Generating Higher-Order Mutants.
    Shumei Wu, Binbin Yang, Zexing Chang, Zheng Li∗, Xiang Chen, Yong Liu∗. 
    Information and Software Technology 2025 [SCI, CCF B]

@@ -8,6 +8,12 @@ title: Awards
 
 ## 2024 
 - Xu Wenbo, Baidu AStar, Golden Medal.
+- Xu Wenbo, Peng Tianqi, Qiu Ruoxin, CCPC Ha'erBin Site, Bronze Medal.
+- Sun Guangzhao, Wang Mengran, Chen Ziyi, CCPC wFinal ChongQing, Bronze Medal.
+- An Xiaoyang, Xiong Jiayi, Zeng Hezhe, ICPC NanJing Site, Silver Medal.
+- Xu Wenbo, Huang Dongqi, Qiu Ruoxin, ICPC HangZhou Site, Bronze Medal.
+- An Xiaoyang, Xiong Jiayi, Zeng Hezhe, ICPC ShenYang Site, Bronze Medal.
+- Xu Wenbo, Huang Dongqi, Qiu Ruoxin, ICPC KunMing Site, Bronze Medal.
 
 ## 2023
 - Hu Jin, Wang Kongyu, Wang Yao, ICPC Shen Yang Site, Bronze Medal.

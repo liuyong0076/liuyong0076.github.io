@@ -100,7 +100,7 @@ title: Awards
 ## 2017
 - Yiting Guo, Weijie Zhao, Quanda Liu. ACM-ICPC Asia Reginal Contest EcFinal 2017, Bronze Medal.
 - Peng Zhong, Yichao Li, Nan Yan. CCPC2017 Final, Bronze Medal
-- Yiting Guo, Weijie Zhao, Quanda Liu. ACM-ICPC Asia Reginal Contest Qingdao Site 2017, Gold Medal.
+- Yiting Guo, Weijie Zhao, Quanda Liu. ACM-ICPC Asia Reginal Contest Qingdao Site 2017, Golden Medal.
 - Xiao Zi, Bing Li, Feilong Zuo. ACM-ICPC Asia Reginal Contest Qingdao Site 2017, Silver Medal.
 - Yiting Guo, Weijie Zhao, Quanda Liu. ACM-ICPC Asia Reginal Contest Xian Site 2017, Silver Medal.
 - Peng Zhong, Yichao Li, Nan Yan. ACM-ICPC Asia Reginal Contest Xian Site 2017, Silver Medal.

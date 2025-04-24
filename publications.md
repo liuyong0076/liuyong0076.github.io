@@ -6,6 +6,12 @@ title: Publications
 ---
 
 ### PUBLICATIONS
+1. [ICECCS2025] EMS-HFL: A Hybrid based Fault Localization.
+   Donghua Wang, Zheng Li, Hengyuan Liu and Yong Liu.
+   International Conference on Engineering of Complex Computer Systems 2025.[EI, CCF C]
+1. [FaSE4Games2025] Multi-Agent Differential Testing for the Game of Go.
+   Jiaxue Song, Xiao-Yi Zhang, Paolo Arcaini, Fuyuki Ishikawa, Yong Liu, Bin Du.
+   Second Foundations of Applied Software Engineering for Games workshop (FaSE4Games’25), FSE Companion[EI]
 1. [TOSEM2025] An Empirical Study on Challenges for LLM Application Developers.
    Chen Xiang, Gao Chaoyang, Chen Chunyang, Zhang Guangbei, Liu Yong.
    ACM Transactions on Software Engineering and Methodology 2025[SCI, CCF A]

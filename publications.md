@@ -6,7 +6,8 @@ title: Publications
 ---
 
 ### PUBLICATIONS
-1. [ICECCS2025] EMS-HFL: A Hybrid based Fault Localization.
+1. [ASEJ2025] Semi-supervised software vulnerability assessment via code lexical and structural information fusion. Wenlong Pei, Yilin Huang, Xiang Chen, Guilong Lu, Yong Liu, Chao Ni. Automated Software Enginnering. [SCI, CCF B]
+3. [ICECCS2025] EMS-HFL: A Hybrid based Fault Localization.
    Donghua Wang, Zheng Li, Hengyuan Liu and Yong Liu.
    International Conference on Engineering of Complex Computer Systems 2025.[EI, CCF C]
 1. [FaSE4Games2025] Multi-Agent Differential Testing for the Game of Go.

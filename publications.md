@@ -6,7 +6,8 @@ title: Publications
 ---
 
 ### PUBLICATIONS
-1. [ASEJ2025] Semi-supervised software vulnerability assessment via code lexical and structural information fusion. Wenlong Pei, Yilin Huang, Xiang Chen, Guilong Lu, Yong Liu, Chao Ni. Automated Software Enginnering. [SCI, CCF B]
+1. [QRS2025] Leveraging Retrieval Augmented Generation to Enhance LLM-Based Fault Localization for Novice Programs. Bin Du, Xiaolan Kang, Hexiang Xu, Yonghao Wu, Yong Liu. IEEE International Conference on Software Quality, Reliability and Security. IEEE, 2024.[EI, CCF C]
+2.  [ASEJ2025] Semi-supervised software vulnerability assessment via code lexical and structural information fusion. Wenlong Pei, Yilin Huang, Xiang Chen, Guilong Lu, Yong Liu, Chao Ni. Automated Software Enginnering. [SCI, CCF B]
 3. [ICECCS2025] EMS-HFL: A Hybrid based Fault Localization.
    Donghua Wang, Zheng Li, Hengyuan Liu and Yong Liu.
    International Conference on Engineering of Complex Computer Systems 2025.[EI, CCF C]

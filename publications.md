@@ -6,6 +6,7 @@ title: Publications
 ---
 
 ### PUBLICATIONS
+1. [JSS2025] Learning never stops: Improving software vulnerability type identification via incremental learning. Jiacheng Xue, Xiang Chen, Zhanqi Cui, Yong Liu, Journal of Systems and Software 2025.[SCI, CCF B]
 1. [QRS2025] Leveraging Retrieval Augmented Generation to Enhance LLM-Based Fault Localization for Novice Programs. Bin Du, Xiaolan Kang, Hexiang Xu, Yonghao Wu, Yong Liu. IEEE International Conference on Software Quality, Reliability and Security. IEEE, 2024.[EI, CCF C]
 2.  [ASEJ2025] Semi-supervised software vulnerability assessment via code lexical and structural information fusion. Wenlong Pei, Yilin Huang, Xiang Chen, Guilong Lu, Yong Liu, Chao Ni. Automated Software Enginnering. [SCI, CCF B]
 3. [ICECCS2025] EMS-HFL: A Hybrid based Fault Localization.

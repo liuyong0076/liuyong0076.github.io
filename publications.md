@@ -6,10 +6,13 @@ title: Publications
 ---
 
 ### PUBLICATIONS
-1. [JSS2025] Learning never stops: Improving software vulnerability type identification via incremental learning. Jiacheng Xue, Xiang Chen, Zhanqi Cui, Yong Liu, Journal of Systems and Software 2025.[SCI, CCF B]
+1. [TSE2025] Prompt Alchemy: Automatic Prompt Refinement for Enhancing Code Generation. Sixiang Ye, Zeyu Sun, Guoqing Wang, Liwei Guo, Qingyuan Liang, Zheng Li, Yong Liu. IEEE Transactions on Software Engineering. 2025[SCI TOP, CCF A]
+2. [JSS2025] Learning never stops: Improving software vulnerability type identification via incremental learning. Jiacheng Xue, Xiang Chen, Zhanqi Cui, Yong Liu, Journal of Systems and Software 2025.[SCI, CCF B]
 1. [QRS2025] Leveraging Retrieval Augmented Generation to Enhance LLM-Based Fault Localization for Novice Programs. Bin Du, Xiaolan Kang, Hexiang Xu, Yonghao Wu, Yong Liu. IEEE International Conference on Software Quality, Reliability and Security. IEEE, 2024.[EI, CCF C]
-2.  [ASEJ2025] Semi-supervised software vulnerability assessment via code lexical and structural information fusion. Wenlong Pei, Yilin Huang, Xiang Chen, Guilong Lu, Yong Liu, Chao Ni. Automated Software Enginnering. [SCI, CCF B]
-3. [ICECCS2025] EMS-HFL: A Hybrid based Fault Localization.
+2. [QRS-w2025] Empirical Evaluation of LLMs for Automated Program Fault Localisation. Yong Liu, Xin Wang, Hengyuan Liu, Ruishi Huang, Yonghao Wu. IEEE International Conference on Software Quality, Reliability and Security. IEEE, 2024.[EI]
+3. [QRS-w2025] Mutants and Test Cases Reduction Strategy for Fault Localization via Graph Representation. Zheng Li, Binbin Yang, Yue Deng, Shumei Wu, Yong Liu. IEEE International Conference on Software Quality, Reliability and Security. IEEE, 2024.[EI]
+4.  [ASEJ2025] Semi-supervised software vulnerability assessment via code lexical and structural information fusion. Wenlong Pei, Yilin Huang, Xiang Chen, Guilong Lu, Yong Liu, Chao Ni. Automated Software Enginnering. [SCI, CCF B]
+5. [ICECCS2025] EMS-HFL: A Hybrid based Fault Localization.
    Donghua Wang, Zheng Li, Hengyuan Liu and Yong Liu.
    International Conference on Engineering of Complex Computer Systems 2025.[EI, CCF C]
 1. [FaSE4Games2025] Multi-Agent Differential Testing for the Game of Go.

@@ -6,8 +6,9 @@ title: Publications
 ---
 
 ### PUBLICATIONS
-1. [TSE2025] Prompt Alchemy: Automatic Prompt Refinement for Enhancing Code Generation. Sixiang Ye, Zeyu Sun, Guoqing Wang, Liwei Guo, Qingyuan Liang, Zheng Li, Yong Liu. IEEE Transactions on Software Engineering. 2025[SCI TOP, CCF A]
-2. [JSS2025] Learning never stops: Improving software vulnerability type identification via incremental learning. Jiacheng Xue, Xiang Chen, Zhanqi Cui, Yong Liu, Journal of Systems and Software 2025.[SCI, CCF B]
+1. [EAAI2025] An Ensemble-based Transfer Testing Method forLarge Language Models. Yuanxin Qiao , Yong Liu, Xiang Chen and Zhanqi Cui. Engineering Applications of Artificial Intelligence. 2025[SCI TOP, CCF C]
+2. [TSE2025] Prompt Alchemy: Automatic Prompt Refinement for Enhancing Code Generation. Sixiang Ye, Zeyu Sun, Guoqing Wang, Liwei Guo, Qingyuan Liang, Zheng Li, Yong Liu. IEEE Transactions on Software Engineering. 2025[SCI TOP, CCF A]
+3. [JSS2025] Learning never stops: Improving software vulnerability type identification via incremental learning. Jiacheng Xue, Xiang Chen, Zhanqi Cui, Yong Liu, Journal of Systems and Software 2025.[SCI, CCF B]
 1. [QRS2025] Leveraging Retrieval Augmented Generation to Enhance LLM-Based Fault Localization for Novice Programs. Bin Du, Xiaolan Kang, Hexiang Xu, Yonghao Wu, Yong Liu. IEEE International Conference on Software Quality, Reliability and Security. IEEE, 2024.[EI, CCF C]
 2. [QRS-w2025] Empirical Evaluation of LLMs for Automated Program Fault Localisation. Yong Liu, Xin Wang, Hengyuan Liu, Ruishi Huang, Yonghao Wu. IEEE International Conference on Software Quality, Reliability and Security. IEEE, 2024.[EI]
 3. [QRS-w2025] Mutants and Test Cases Reduction Strategy for Fault Localization via Graph Representation. Zheng Li, Binbin Yang, Yue Deng, Shumei Wu, Yong Liu. IEEE International Conference on Software Quality, Reliability and Security. IEEE, 2024.[EI]

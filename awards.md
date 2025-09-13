@@ -6,6 +6,10 @@ title: Awards
 
 ### PROGRAMMING CONTEST AWARDS
 
+## 2025
+- Peng Tianqi, Chen Haoran, Xiong Jiayi, CCPC NanChang Invitational Contest, Golden Medal.
+- Zhou Hao, Fan Liye, Jiang Hao, CCPC NanChang Invitational Contest, Silver Medal.
+
 ## 2024 
 - Xu Wenbo, Baidu AStar, Golden Medal.
 - Xu Wenbo, Peng Tianqi, Qiu Ruoxin, CCPC Ha'erBin Site, Bronze Medal.
@@ -29,7 +33,7 @@ title: Awards
 - Yang Qingbo, Liu Junshu, Sun Tongyu, ICPC Xi'An Site, Silver Medal.
 - Zhai Haotian, An Xiaoyang, Zheng Liangfei, ICPC Xi'An Site, Silver Medal.
 - Huang Dongqi, Zeng Zixun, Xu Wenbo, CCPC Qinhuangdao Site, Silver Medal.
-- Huang Dongqi, Zeng Zixun, Xu Wenbo, ICPC ShanXi Invitational, Golden Medal.
+- Huang Dongqi, Zeng Zixun, Xu Wenbo, ICPC ShanXi Invitational Contest, Golden Medal.
 
 
 ## 2022

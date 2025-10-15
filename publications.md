@@ -6,7 +6,7 @@ title: Publications
 ---
 
 ### PUBLICATIONS
-1. [IJSEKE] An Environment Adaptation Agent of Reinforcement Learning in Continuous Integration Test Case Prioritization. Zheng Li, Jiping Liu, Shunqing Xu,Hengyuan Liu, and Yong Liu. Internation Journal of Software Engineering and Knowledge Engineering. [SCI, CCF C]
+1. [IJSEKE2025] An Environment Adaptation Agent of Reinforcement Learning in Continuous Integration Test Case Prioritization. Zheng Li, Jiping Liu, Shunqing Xu,Hengyuan Liu, and Yong Liu. Internation Journal of Software Engineering and Knowledge Engineering. [SCI, CCF C]
 2. [IST2025] SCOPE: Hybrid Optimization Strategy for Higher-order Mutation-based Fault Localization. Hengyuan Liu, Zheng Li, Xiaolan Kang, Shumei Wu, Doyle Paul, Xiang Chen and Yong Liu. Information and Software Technology 2025 [SCI, CCF B]
 3. [EAAI2025] An Ensemble-based Transfer Testing Method forLarge Language Models. Yuanxin Qiao , Yong Liu, Xiang Chen and Zhanqi Cui. Engineering Applications of Artificial Intelligence. 2025[SCI TOP, CCF C]
 4. [TSE2025] Prompt Alchemy: Automatic Prompt Refinement for Enhancing Code Generation. Sixiang Ye, Zeyu Sun, Guoqing Wang, Liwei Guo, Qingyuan Liang, Zheng Li, Yong Liu. IEEE Transactions on Software Engineering. 2025[SCI TOP, CCF A]

@@ -7,6 +7,8 @@ title: Awards
 ### PROGRAMMING CONTEST AWARDS
 
 ## 2025
+- Peng Tianqi, Chen Haoran, Xiong Jiayi, ICPC WuHan site, Silver Medal.
+- Peng Tianqi, Chen Haoran, Xiong Jiayi, ICPC NanJing site, Silver Medal.
 - Peng Tianqi, Chen Haoran, Xiong Jiayi, CCPC NanChang Invitational Contest, Golden Medal.
 - Zhou Hao, Fan Liye, Jiang Hao, CCPC NanChang Invitational Contest, Silver Medal.
 

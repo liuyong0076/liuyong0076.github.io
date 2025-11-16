@@ -8,6 +8,9 @@ title: Awards
 
 ## 2025
 - Peng Tianqi, Chen Haoran, Xiong Jiayi, ICPC WuHan site, Silver Medal.
+- Fan Liye, Jiang Hao, Zhou Hao. ICPC Shenyang site, Bronze Medal.
+- Peng Tianqi, Chen Haoran, Xiong Jiayi, CCPC JinNan site, Bronze Medal.
+- Sun Bowen, Zhang Zengxin, Chen Xiangyu. ICPC Shenyang site, Bronze Medal.
 - Peng Tianqi, Chen Haoran, Xiong Jiayi, ICPC NanJing site, Silver Medal.
 - Peng Tianqi, Chen Haoran, Xiong Jiayi, CCPC NanChang Invitational Contest, Golden Medal.
 - Zhou Hao, Fan Liye, Jiang Hao, CCPC NanChang Invitational Contest, Silver Medal.

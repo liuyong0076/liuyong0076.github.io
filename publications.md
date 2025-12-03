@@ -6,6 +6,7 @@ title: Publications
 ---
 
 ### PUBLICATIONS
+1. [JSS2025] Exploring the Potential and Limitations of Large Language Models for Novice Program Fault Localization. Hexiang Xu, Hengyuan Liu, Yonghao Wu, Xiaolan Kang, Xiang Chen, Yong Liu*. Journal of Systems and Software 2025.[SCI, CCF B]
 1. [JSS2025] GraMuS: Boosting Statement-level Fault Localization via Graph Representation and Multimodal Information. Ruishi Huang, Binbin Yang, Shumei Wu, Zheng Li, Paul Doyle, Xiaoyi Zhang, Xiang Chen, Yong Liu. Journal of Systems and Software 2025.[SCI, CCF B]
 1. [IJSEKE2025] An Environment Adaptation Agent of Reinforcement Learning in Continuous Integration Test Case Prioritization. Zheng Li, Jiping Liu, Shunqing Xu,Hengyuan Liu, and Yong Liu. Internation Journal of Software Engineering and Knowledge Engineering. [SCI, CCF C]
 2. [IST2025] SCOPE: Hybrid Optimization Strategy for Higher-order Mutation-based Fault Localization. Hengyuan Liu, Zheng Li, Xiaolan Kang, Shumei Wu, Doyle Paul, Xiang Chen and Yong Liu. Information and Software Technology 2025 [SCI, CCF B]

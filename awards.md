@@ -10,6 +10,7 @@ title: Awards
 - Peng Tianqi, Baidu AStar 2025, Golden Medal.
 - Lin Zipei, Baidu AStar 2025, Silver Medal.
 - Xiong Jiayi, Ni Yalun, Zhang Hongchi, Jiang Hao, Chen Xiangyu, Baidu AStar 2025, Bronze Medal.
+- Peng Tianqi, Chen Haoran, Xiong Jiayi, CCPC ZhengZhou site, Silver Medal.
 - Peng Tianqi, Chen Haoran, Xiong Jiayi, ICPC WuHan site, Silver Medal.
 - Fan Liye, Jiang Hao, Zhou Hao. ICPC Shenyang site, Bronze Medal.
 - Peng Tianqi, Chen Haoran, Xiong Jiayi, CCPC JinNan site, Bronze Medal.

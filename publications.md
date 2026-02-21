@@ -6,6 +6,7 @@ title: Publications
 ---
 
 ### PUBLICATIONS
+1. [CVPR2026] ClimaOoD: Improving Anomaly Segmentation via Physically Realistic Synthetic Data. Yuxing liu, Zheng Li, Huanhuan Liang, Ji Zhang, Zeyu Sun, Yong Liu. Conference on Computer Vision and Pattern Recognition 2026. [CCF A]
 1. [JSS2025] Exploring the Potential and Limitations of Large Language Models for Novice Program Fault Localization. Hexiang Xu, Hengyuan Liu, Yonghao Wu, Xiaolan Kang, Xiang Chen, Yong Liu*. Journal of Systems and Software 2025.[SCI, CCF B]
 1. [JSS2025] GraMuS: Boosting Statement-level Fault Localization via Graph Representation and Multimodal Information. Ruishi Huang, Binbin Yang, Shumei Wu, Zheng Li, Paul Doyle, Xiaoyi Zhang, Xiang Chen, Yong Liu. Journal of Systems and Software 2025.[SCI, CCF B]
 1. [IJSEKE2025] An Environment Adaptation Agent of Reinforcement Learning in Continuous Integration Test Case Prioritization. Zheng Li, Jiping Liu, Shunqing Xu,Hengyuan Liu, and Yong Liu. Internation Journal of Software Engineering and Knowledge Engineering. [SCI, CCF C]
@@ -55,7 +56,7 @@ title: Publications
    Journal of Software: Evolution and Process. [SCI, CCF B]
 5. [FSE2024] ConDefects: A Complementary Dataset to Address the Data Leakage Concern for LLM-Based Fault Localization and Program Repair.
    Yonghao Wu, Zheng Li, Jie M. Zhang, Yong Liu.
-   Demonstrations-track in FSE 2024.[EI]
+   Demonstrations-track in FSE 2024.[CCF A]
 6. [STVR2024] Delta4Ms: Improving Mutation-based Fault Localization by Eliminating Mutant Bias.
    Hengyuan Liu, Zheng Li, Baolong Han, Yangtao Liu, Xiang Chen, Yong Liu*.
    Software Testing, Verification & Reliability[SCI, CCF B]

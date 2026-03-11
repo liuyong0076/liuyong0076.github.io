@@ -23,6 +23,7 @@ My research interests include **empirical software engineering**, **artificial i
 - Python and Pygame
 
 ### AWARDS
+- 2026年，北京化工大学教育教学成果特等奖
 - 2025年，北京化工大学教职工乒乓球团体赛冠军
 - 2024年，北京化工大学教职工“三对三”篮球联赛团体季军
 - 2024年，北京化工大学教职工运动会运球上篮中年组亚军

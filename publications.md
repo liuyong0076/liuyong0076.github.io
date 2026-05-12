@@ -6,7 +6,8 @@ title: Publications
 ---
 
 ### PUBLICATIONS
-1. [COMPSAC 2026] GVFL: Variable Level Fault Localization Using Graph Representation Learning. Xia Song, Xiaojie Fan, Ruishi Huang, Yong Liu, Zheng Li. IEEE Computers, Software, and Applications Conference 2026 [EI, CCF C]
+1. [JSS 2026] A multi-dimensional test case evaluation framework based on clustering and differential testing. Daguang Jiang, Jiajun Zhou, Xin Wang, Xiaojie Fan, Hengyuan Liu, Yong Liu. Journal of Systems and Software 2026.[SCI, CCF B]
+2. [COMPSAC 2026] GVFL: Variable Level Fault Localization Using Graph Representation Learning. Xia Song, Xiaojie Fan, Ruishi Huang, Yong Liu, Zheng Li. IEEE Computers, Software, and Applications Conference 2026 [EI, CCF C]
 1. [COMPSAC 2026]Dual Knowledge Graph Retrieval-Augmented Smart Contract Vulnerability Detection. Yan Zheng, Yang Zhou, Yichen Wang, Yong Liu, Ying Shang. IEEE Computers, Software, and Applications Conference 2026 [EI, CCF C]
 1. [COMPSAC 2026] Cross-Layer Heterogeneous Information Integration and Representation for Web Vulnerability Analysis using LLM and Static Analysis. Jia Wang Jiang, Yong Liu, Chao Jie Dai, Jia Xue Song, Wei Wei Wang. IEEE Computers, Software, and Applications Conference 2026 [EI, CCF C]
 1. [CVPR2026] ClimaOoD: Improving Anomaly Segmentation via Physically Realistic Synthetic Data. Yuxing liu, Zheng Li, Huanhuan Liang, Ji Zhang, Zeyu Sun, Yong Liu. Conference on Computer Vision and Pattern Recognition 2026. [CCF A]

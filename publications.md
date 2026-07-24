@@ -6,6 +6,7 @@ title: Publications
 ---
 
 ### PUBLICATIONS
+1. [MM 2026] Rethinking Scale-Agnostic Evaluation: A Mixed-Scale Diagnostic Benchmark and Small-Hazard Framework for Road Anomaly Segmentation. Yuxing Liu, Xiao Fu, Zheng Li, Huanhuan Liang, Zhuomin Li, Ji Zhang, Xuchuan Zhou, Zeyu Sun, Yong Liu. The 34th ACM International Conference on Multimedia，ACM MM 2026.[EI, CCF A]
 1. [ISSTA 2026] Signal Denoising based Kill Matrix Refinement for Mutation-based Fault Localization. Hengyuan Liu, Zheng Li, Xia Song, Yong Liu. SIGSOFT International Symposium on Software Testing and Analysis 2026.[EI, CCF A]
 1. [JSS 2026] A multi-dimensional test case evaluation framework based on clustering and differential testing. Daguang Jiang, Jiajun Zhou, Xin Wang, Xiaojie Fan, Hengyuan Liu, Yong Liu. Journal of Systems and Software 2026.[SCI, CCF B]
 2. [COMPSAC 2026] GVFL: Variable Level Fault Localization Using Graph Representation Learning. Xia Song, Xiaojie Fan, Ruishi Huang, Yong Liu, Zheng Li. IEEE Computers, Software, and Applications Conference 2026 [EI, CCF C]

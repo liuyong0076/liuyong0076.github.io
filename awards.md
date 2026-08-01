@@ -6,6 +6,8 @@ title: Awards
 
 ### PROGRAMMING CONTEST AWARDS
 ## 2026
+- Ni Yalun, Chang Qinbao, Lin Zipei, ICPC ShenYang Invitational Contest, Golden Medal.
+- Zhang Hongchi, Zeng Fugen, Chen Zhikang, ICPC ShenYang Invitational Contest, Bronze Medal.
 - Ni Yalun, Chang Qinbao, Lin Zipei, ICPC Xi'An Invitational Contest, Silver Medal.
 - Liu Zhuofan, Ye Dinghao, Zhang Hongchi, ICPC Xi'An Invitational Contest, Silver Medal.
 - Peng Tianqi, Chen Haoran, Xiong Jiayi, CCPC Beijing Provice Contest, Bronze Medal.

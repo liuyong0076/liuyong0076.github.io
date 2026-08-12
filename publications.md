@@ -6,6 +6,8 @@ title: Publications
 ---
 
 ### PUBLICATIONS
+1. [ISSRE-w2026] A Structured Knowledge Base for LLM-Based Test Case Generation in Online Judges. Jiajun Zhou, Daguang Jiang, Ning Shi, Hexiang Xu, Yong Liu. IEEE International Symposium on Software Reliability Engineering. IEEE, 2026. [EI]
+1. [ISSRE-w2026] A Comparative Empirical Study of LLM-Based Test Generation Methods for Competitive Programming. Ning Shi, Hexiang Xu, Dongxu Wang, Jiajun Zhou, Ying Shang. IEEE International Symposium on Software Reliability Engineering. IEEE, 2026. [EI]
 1. [JSS 2026] SHARE-RAG: A Structure-Aware and Hypothesis-Guided Retrieval-Augmented Framework for Fault Localization in Novice Programs. Li Wu, Jiqing Wei, Yonghao Wu, Bin Du, Yong Liu. Journal of Systems and Software 2026.[SCI, CCF B]
 1. [MM 2026] Rethinking Scale-Agnostic Evaluation: A Mixed-Scale Diagnostic Benchmark and Small-Hazard Framework for Road Anomaly Segmentation. Yuxing Liu, Xiao Fu, Zheng Li, Huanhuan Liang, Zhuomin Li, Ji Zhang, Xuchuan Zhou, Zeyu Sun, Yong Liu. The 34th ACM International Conference on Multimedia，ACM MM 2026.[EI, CCF A]
 1. [ISSTA 2026] Signal Denoising based Kill Matrix Refinement for Mutation-based Fault Localization. Hengyuan Liu, Zheng Li, Xia Song, Yong Liu. SIGSOFT International Symposium on Software Testing and Analysis 2026.[EI, CCF A]

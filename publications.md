@@ -6,6 +6,7 @@ title: Publications
 ---
 
 ### PUBLICATIONS
+1. [ISSRE-w2026] TLFL: Characterizing the Diagnosability of Spectrum-Based Fault Localisation via Spectrum Distribution Patterns.Yan Zheng, Xiao-Yi Zhang, Yong Liu. IEEE International Symposium on Software Reliability Engineering. IEEE, 2026. [EI]
 1. [ISSRE-w2026] A Structured Knowledge Base for LLM-Based Test Case Generation in Online Judges. Jiajun Zhou, Daguang Jiang, Ning Shi, Hexiang Xu, Yong Liu. IEEE International Symposium on Software Reliability Engineering. IEEE, 2026. [EI]
 1. [ISSRE-w2026] A Comparative Empirical Study of LLM-Based Test Generation Methods for Competitive Programming. Ning Shi, Hexiang Xu, Dongxu Wang, Jiajun Zhou, Ying Shang. IEEE International Symposium on Software Reliability Engineering. IEEE, 2026. [EI]
 1. [JSS 2026] SHARE-RAG: A Structure-Aware and Hypothesis-Guided Retrieval-Augmented Framework for Fault Localization in Novice Programs. Li Wu, Jiqing Wei, Yonghao Wu, Bin Du, Yong Liu. Journal of Systems and Software 2026.[SCI, CCF B]

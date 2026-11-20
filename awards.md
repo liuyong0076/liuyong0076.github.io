@@ -21,6 +21,7 @@ title: Awards
 - Liu Zhuofan, Ye Dinghao, Zhang Hongchi, ICPC Xi'An Invitational Contest, Silver Medal.
 - Peng Tianqi, Chen Haoran, Xiong Jiayi, CCPC Beijing Provice Contest, Bronze Medal.
 - Ni Yalun, Chang Qinbao, Lin Zipei, CCPC Beijing Provice Contest, Bronze Medal.
+
 ## 2025
 - Peng Tianqi, Baidu AStar 2025, Golden Medal.
 - Lin Zipei, Baidu AStar 2025, Silver Medal.

@@ -6,6 +6,15 @@ title: Awards
 
 ### PROGRAMMING CONTEST AWARDS
 ## 2026
+- Cheng Zehua, Baohan, Chai Shunan, ICPC Xi'An site, Silver Medal.
+- Ni Yalun, Lin Zipei, Chang Qinbao, ICPC Xi'An site, Silver Medal.
+- Peng Tianqi, Jiang Hao, Fan Liye, CCPC ChangChun site, Silver Medal.
+- Liu Zhuofan, Zhang Hongchi, Zeng Fugen, CCPC ChangChun Site, Bronze Medal.
+- Peng Tianqi, Jiang Hao, Fan Liye, ICPC Wuhan site, Golden Medal.
+- Cheng Zehua, Bao Han, Liu Tiancheng, ICPC Wuhan site, Bronze Medal.
+- Ni Yalun, Lin Zipei, Chang Qinbao, ICPC Nanjing site, Silver Medal.
+- Ni Yalun, Lin Zipei, Chang Qinbao, CCPC JinZhou site, Bronze Medal.
+- Peng Tianqi, Jiang Hao, Fan Liye, ICPC ShenYang site, Silver Medal.
 - Ni Yalun, Chang Qinbao, Lin Zipei, ICPC ShenYang Invitational Contest, Golden Medal.
 - Zhang Hongchi, Zeng Fugen, Chen Zhikang, ICPC ShenYang Invitational Contest, Bronze Medal.
 - Ni Yalun, Chang Qinbao, Lin Zipei, ICPC Xi'An Invitational Contest, Silver Medal.
